@@ -8,6 +8,11 @@
   <img alt="Darshil's Udemy" width="50px" src="https://pbs.twimg.com/profile_images/1417157967124721666/xShJF4Km_400x400.png" />
 </a>
 
+<a href="https://replit.com/@Trixx">
+  <img alt="Darshil's Replit" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx8r92MExhSZwJGpnf6lDoaNBhMMeMlflbyA&usqp=CAU" />
+</a>
+
+
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/Darshill9991/Darshill9991/blob/main/code.gif?raw=true" width="400" height="400" />
