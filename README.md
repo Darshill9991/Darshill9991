@@ -10,11 +10,11 @@ I'm [Darshil Shah](https://www.linkedin.com/in/iamdarshil/)
 
 <img align="right" alt="GIF" src="https://github.com/Darshill9991/Darshill9991/blob/main/code.gif?raw=true" width="400" height="400" />
 
-I am a passionate full stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I am a passionate problem solver, a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an tech enthusiast and a curious learner. I learn a lot from the open-source community and would love to collaborate a ton through open-source.
 
-🚀 I am currently helping Browserstack in their misson to be <b>TESTING INFRASTRUCTURE OF THE INTERNET</b>
+🚀 I am currently helping Browserstack in their misson to be the <b>TESTING INFRASTRUCTURE OF THE INTERNET</b>
 
 🖥 I am a Lead instructor & Course Developer at a stealth organization 
 
