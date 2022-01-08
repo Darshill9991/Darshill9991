@@ -1,9 +1,11 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-I'm [Darshil Shah](https://www.linkedin.com/in/iamdarshil/) 
+### Hey there, I'm [Darshil Shah](https://www.linkedin.com/in/iamdarshil/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/iamdarshil/">
-  <img alt="Darshil's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Darshil's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://www.udemy.com/user/darshil-shah-103/">
+  <img alt="Darshil's Udemy" width="50px" src="https://pbs.twimg.com/profile_images/1417157967124721666/xShJF4Km_400x400.png" />
 </a>
 
 <br>
