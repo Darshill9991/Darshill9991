@@ -21,7 +21,7 @@ I am a passionate problem solver, a software engineer from India. My passion for
 
 I am also an tech enthusiast and a curious learner. I learn a lot from the open-source community and would love to collaborate a ton through open-source.
 
-🚀 I am currently helping Browserstack in their misson to be the <b>TESTING INFRASTRUCTURE OF THE INTERNET</b>
+🚀 I am currently helping [Browserstack](https://www.browserstack.com/) in their misson to be the <b>TESTING INFRASTRUCTURE OF THE INTERNET</b>
 
 🖥 I was a Lead instructor & Course Developer at a stealth organization 
 
