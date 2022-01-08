@@ -27,7 +27,7 @@ I am also an tech enthusiast and a curious learner. I learn a lot from the open-
 
   
 - 💼 Always curious to learn. Wanna collabrate, do reach, [email](mailto:darshilshah9991@gmail.com) :)
-- 💬 Ask me about anything, i am happy to help;
+- 💬 Ask me about anything, I am happy to help !
 
 **languages and tools:**  
 
