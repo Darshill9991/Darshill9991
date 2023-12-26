@@ -47,10 +47,7 @@ I am also an tech enthusiast and a curious learner. I learn a lot from the open-
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   30 mins         █████████████████████░░░░   83.53 %
-Git Config   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Bash         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
